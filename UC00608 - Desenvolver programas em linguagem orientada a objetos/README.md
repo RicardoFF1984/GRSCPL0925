@@ -5,6 +5,7 @@
 
 ### 01_intro
 
+
 - tipos de dados
 - var
 - in/out
@@ -32,3 +33,13 @@
 - list
 - dict
 - set
+
+## Sessão 3 - 20/11/2025
+
+- Aula prática
+
+## Sessão 4 - 27/11/2025
+
+- try - execpt
+- formatação de String
+
