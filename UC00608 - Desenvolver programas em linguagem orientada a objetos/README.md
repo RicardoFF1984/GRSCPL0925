@@ -45,7 +45,7 @@
 
 ## Sessão 4 - 02/12/2025
 
-- files txt
-
+- save/load txt
+- save/load bin
 
 
