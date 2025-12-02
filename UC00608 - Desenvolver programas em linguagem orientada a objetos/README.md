@@ -5,7 +5,6 @@
 
 ### 01_intro
 
-
 - tipos de dados
 - var
 - in/out
@@ -47,5 +46,8 @@
 
 - save/load txt
 - save/load bin
+- json
+- save/laod json
+
 
 
