@@ -44,7 +44,8 @@ class AgendaContacto:
     def excluir_contacto(self):
         pass
 
-    def pesquisar_contacto(self):
+    def pesquisar_contacto(self, nome: str) -> list[Contacto]:
+
         pass
 
     def contacto_duplicado(self) -> bool:
