@@ -5,8 +5,8 @@
 
 ### 01_intro
 
-- tipos de dados
-- var
+- Tipos de dados
+- Variáveis 
 - in/out
 - condições
   - if - elif - else
@@ -40,17 +40,29 @@
 ## Sessão 4 - 27/11/2025
 
 - try - execpt
-- formatação de String
+- Formatação de String
 
 ## Sessão 4 - 02/12/2025
 
-- save/load txt
-- save/load bin
-- json
-- save/laod json
+- Save/load txt
+- Save/load bin
+- JSON
+- Save/laod json
 
 
 
 ## Sessão 5 - 17/12/2025
 
-- classes
+- Classes
+  * conceito
+  * como criar classes
+  * como inicializar uma class
+  * como usar  
+
+
+## Sessão 6 - 18/12/2025
+
+- Classes
+  * Classes compostas
+  * Encapsulamento
+  * Herança 
