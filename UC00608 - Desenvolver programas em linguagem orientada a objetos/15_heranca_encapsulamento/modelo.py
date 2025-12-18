@@ -21,3 +21,36 @@ class Pessoa:
             self._idade = idade
         else:
             raise ValueError("Idade invalida")
+
+    def funcCool(self):
+        print(self.nome)
+        print(self.idade)
+
+
+class Aluno(Pessoa):  # Aluno seja uma Pessoa
+
+    def __init__(self, nome, idade):
+        super().__init__(nome, idade)
+        self.turma = None
+
+    def funcCool_Aluno(self):
+        super().funcCool()
+
+
+class A:  # independente
+    pass
+
+
+class B(A):  # B herda de A <- B seja B mas e verdade que B -> A
+    pass
+
+
+"""
+
+Mesh 
+
+inicio      -> no1
+            -> no2
+            -> no3 
+
+"""
