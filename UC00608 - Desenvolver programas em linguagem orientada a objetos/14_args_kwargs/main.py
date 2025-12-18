@@ -43,3 +43,26 @@ teste3(nome="valor1", telefone="valor2")
 my_dict = {idx: foo, "telefone": boo}
 
 teste3(**my_dict)
+
+
+def my_func(*args, **kwargs):
+    pass
+
+
+def foo(idade, nome, telefone):
+    pass
+
+
+def teste_gf(**kwargs):
+    return kwargs.values()
+
+
+d = {"nome": "Gonçalo", "escola": "ATEC", "AnoInicio": 2022, "turma": "GRSCPL"}
+
+nome, escola, ano, turma = teste_gf(**d)
+
+print(nome, escola, ano, turma)
+
+nome, escola, ano = teste_gf(nome="Gonçalo", escola="ATEC", anoInicio=2022)
+
+print(nome, escola, ano)
