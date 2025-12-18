@@ -65,5 +65,7 @@
 - Classes
   * Classes compostas
   * Encapsulamento
+    * @property
+    * @nome.setter 
   * Herança
 - *args e **kwargs
